@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Hệ thống & Công cụ Desktop (System & Utilities)
+---
 
 | Dự án | Mô tả nhanh |
 | :--- | :--- |
@@ -31,3 +31,4 @@
 | :--- | :--- |
 | 🤖 **[Android Project](https://github.com/NgoDuy2197/Android_Project)** | Dự án phát triển ứng dụng trên nền tảng Android. |
 | 😂 **[Snippet Funny](https://github.com/NgoDuy2197/snipet-funny)** | Nơi lưu trữ các đoạn code mẫu (snippets) hay ho và giải trí. |
+| 🔐 **[USB Token Signing Updater](https://github.com/NgoDuy2197/usb-token-signing-updater)** | Công cụ hỗ trợ cập nhật và quản lý ký số qua USB Token. |
