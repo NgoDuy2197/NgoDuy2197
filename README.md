@@ -31,7 +31,6 @@
 | :--- | :--- | :---: |
 | 🤖 **Android Project** | Dự án phát triển ứng dụng trên nền tảng Android. | [![Repo](https://img.shields.io/badge/Open-Repo-8250df?style=flat-square&logo=github)](https://github.com/NgoDuy2197/Android_Project) |
 | 😂 **Snippet Funny** | Nơi lưu trữ các đoạn code mẫu (snippets) hay ho và giải trí. | [![Repo](https://img.shields.io/badge/Open-Repo-8250df?style=flat-square&logo=github)](https://github.com/NgoDuy2197/snipet-funny) |
-| 🏠 **Private GitHub Home** | Chính là trang dashboard điều hướng này đây! | [![Repo](https://img.shields.io/badge/Current-Repo-6e7781?style=flat-square&logo=github)](https://github.com/NgoDuy2197/private-github-home) |
 
 ---
 
